@@ -3,3 +3,5 @@ Probando texto, esto no tiene nada de interesante y es eso lo que lo hace intere
 Mi edad es 21 años
 
 Solo mido 168 cm
+
+Para probar los colores de Bash
